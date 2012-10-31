@@ -314,6 +314,7 @@
 				7D4E33A81641E363004EEC3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
